@@ -12,5 +12,7 @@
     "name": "typicode"
   },
   
-  "URL": "https://my-json-server.typicode.com/prasun-singh/WallPost"
+  "URI" : {
+    "1": "https://my-json-server.typicode.com/prasun-singh/WallPost"
+  }
 }
